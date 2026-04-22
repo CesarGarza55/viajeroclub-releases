@@ -1,0 +1,13 @@
+{
+  "name": "CodevBox Repo",
+  "identifier": "com.codevbox.repo",
+  "apps": [
+    {
+      "name": "ViajeroClub",
+      "bundleIdentifier": "com.codevbox.viajeroclub",
+      "developerName": "CodevBox",
+      "iconURL": "https://raw.githubusercontent.com/CesarGarza55/codevbox-ios-repo/main/icons/viajeroclub.png",
+      "versions": []
+    }
+  ]
+}
