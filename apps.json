@@ -10,6 +10,13 @@
       "localizedDescription": "Reserva y gestiona viajes desde tu móvil con ViajeroClub.",
       "versions": [
         {
+          "version": "1.0.1",
+          "buildVersion": "2",
+          "date": "2026-04-23",
+          "downloadURL": "https://github.com/CesarGarza55/codevbox-ios-repo/releases/download/v2/ViajeroClub.ipa",
+          "size": 12933036
+        },
+        {
           "version": "1.0.0",
           "buildVersion": "1",
           "date": "2026-04-22",
