@@ -1,0 +1,14 @@
+{
+  "name": "CodevBox Repo",
+  "identifier": "com.codevbox.repo",
+  "apps": [
+    {
+      "name": "ViajeroClub",
+      "bundleIdentifier": "com.codevbox.viajeroclub",
+      "developerName": "CodevBox",
+      "iconURL": "https://raw.githubusercontent.com/CesarGarza55/viajeroclub-releases/main/icons/viajeroclub.png",
+      "localizedDescription": "Reserva y gestiona viajes desde tu móvil con ViajeroClub.",
+      "versions": []
+    }
+  ]
+}
