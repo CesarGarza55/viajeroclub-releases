@@ -8,7 +8,15 @@
       "developerName": "CodevBox",
       "iconURL": "https://raw.githubusercontent.com/CesarGarza55/viajeroclub-releases/main/icons/viajeroclub.png",
       "localizedDescription": "Reserva y gestiona viajes desde tu móvil con ViajeroClub.",
-      "versions": []
+      "versions": [
+        {
+          "version": "1.0.4",
+          "buildVersion": "5",
+          "date": "2026-04-24",
+          "downloadURL": "https://github.com/CesarGarza55/viajeroclub-releases/releases/download/v5/ViajeroClub.apk",
+          "size": 94678108
+        }
+      ]
     }
   ]
 }
